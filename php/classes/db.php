@@ -9,7 +9,7 @@ class Connector {
     private $host = "localhost";
     private $user = "root";
     private $pass = "";
-    private $dbname = "logging";
+    private $dbname = "real_number";
     private $dbh;
     private $error;
     private $stmt;
